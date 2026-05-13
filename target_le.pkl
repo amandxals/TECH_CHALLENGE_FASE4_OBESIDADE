@@ -1,0 +1,19 @@
+{
+  "best_model": "GradientBoosting",
+  "accuracy": 0.9527186761229315,
+  "cv_accuracy": 0.9498403415011261,
+  "all_results": {
+    "RandomForest": {
+      "accuracy": 0.9385342789598109,
+      "cv_accuracy": 0.9242916204497329
+    },
+    "GradientBoosting": {
+      "accuracy": 0.9527186761229315,
+      "cv_accuracy": 0.9498403415011261
+    },
+    "DecisionTree": {
+      "accuracy": 0.9243498817966903,
+      "cv_accuracy": 0.9247218580888038
+    }
+  }
+}
